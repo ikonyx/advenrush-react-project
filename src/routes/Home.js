@@ -2,6 +2,7 @@ import Hero from "../components/Hero";
 import Navbar from "../components/Navbar"
 import HomeImg from "../assets/home.jpg"
 import Event from "../components/Event"
+import Training from "../components/Training";
 
 function Home () {
     return(
@@ -15,7 +16,8 @@ function Home () {
         Immerse yourself in our dynamic website, featuring stunning visuals and detailed event information. 
         Join the excitement and start your adventure with AdvenRush today!"
         /> 
-        <Event />  
+        <Event /> 
+        <Training /> 
         </>
     );
 }
