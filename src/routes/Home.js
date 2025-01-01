@@ -3,6 +3,7 @@ import Navbar from "../components/Navbar"
 import HomeImg from "../assets/home.jpg"
 import Event from "../components/Event"
 import Training from "../components/Training";
+import Footer from "../components/Footer";
 
 function Home () {
     return(
@@ -17,7 +18,8 @@ function Home () {
         Join the excitement and start your adventure with AdvenRush today!"
         /> 
         <Event /> 
-        <Training /> 
+        <Training />
+        <Footer /> 
         </>
     );
 }
