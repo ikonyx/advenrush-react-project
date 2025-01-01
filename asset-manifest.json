@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/advenrush-react-project/static/css/main.07e1dfbf.css",
-    "main.js": "/advenrush-react-project/static/js/main.6910202d.js",
-    "static/media/norway2.jpg": "/advenrush-react-project/static/media/norway2.3a050cc3496cd47c26c3.jpg",
-    "static/media/about.jpg": "/advenrush-react-project/static/media/about.83c421867f332511f471.jpg",
-    "static/media/survival.jpg": "/advenrush-react-project/static/media/survival.f3d0762d8afe8c7b82a4.jpg",
-    "static/media/nutrition.jpg": "/advenrush-react-project/static/media/nutrition.08429665eb916dab3643.jpg",
-    "static/media/fitness.jpg": "/advenrush-react-project/static/media/fitness.d52805c4124f1c02f0de.jpg",
-    "static/media/home.jpg": "/advenrush-react-project/static/media/home.3c5f54989dfa13105747.jpg",
-    "static/media/service.jpg": "/advenrush-react-project/static/media/service.9d0e7bc3938714ebb970.jpg",
-    "static/media/switzerland2.jpg": "/advenrush-react-project/static/media/switzerland2.c6c50f534ef094949d5d.jpg",
-    "static/media/contact.jpg": "/advenrush-react-project/static/media/contact.76fa8b09b2da850fb924.jpg",
-    "static/media/norway.jpg": "/advenrush-react-project/static/media/norway.59f0c522888eb5410d4e.jpg",
-    "static/media/switzerland.jpg": "/advenrush-react-project/static/media/switzerland.6a0ac2da7d7816e1bbd7.jpg",
-    "index.html": "/advenrush-react-project/index.html",
-    "main.07e1dfbf.css.map": "/advenrush-react-project/static/css/main.07e1dfbf.css.map",
-    "main.6910202d.js.map": "/advenrush-react-project/static/js/main.6910202d.js.map"
+    "main.css": "/static/css/main.07e1dfbf.css",
+    "main.js": "/static/js/main.5e950f24.js",
+    "static/media/norway2.jpg": "/static/media/norway2.3a050cc3496cd47c26c3.jpg",
+    "static/media/about.jpg": "/static/media/about.83c421867f332511f471.jpg",
+    "static/media/survival.jpg": "/static/media/survival.f3d0762d8afe8c7b82a4.jpg",
+    "static/media/nutrition.jpg": "/static/media/nutrition.08429665eb916dab3643.jpg",
+    "static/media/fitness.jpg": "/static/media/fitness.d52805c4124f1c02f0de.jpg",
+    "static/media/home.jpg": "/static/media/home.3c5f54989dfa13105747.jpg",
+    "static/media/service.jpg": "/static/media/service.9d0e7bc3938714ebb970.jpg",
+    "static/media/switzerland2.jpg": "/static/media/switzerland2.c6c50f534ef094949d5d.jpg",
+    "static/media/contact.jpg": "/static/media/contact.76fa8b09b2da850fb924.jpg",
+    "static/media/norway.jpg": "/static/media/norway.59f0c522888eb5410d4e.jpg",
+    "static/media/switzerland.jpg": "/static/media/switzerland.6a0ac2da7d7816e1bbd7.jpg",
+    "index.html": "/index.html",
+    "main.07e1dfbf.css.map": "/static/css/main.07e1dfbf.css.map",
+    "main.5e950f24.js.map": "/static/js/main.5e950f24.js.map"
   },
   "entrypoints": [
     "static/css/main.07e1dfbf.css",
-    "static/js/main.6910202d.js"
+    "static/js/main.5e950f24.js"
   ]
 }
