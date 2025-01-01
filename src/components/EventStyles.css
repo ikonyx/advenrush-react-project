@@ -25,6 +25,7 @@
     width: 45%;
     text-align: start;
     font-size: 1.1rem;
+    cursor: pointer;
 }
 
 .description h2{
