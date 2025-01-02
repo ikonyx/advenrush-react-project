@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/advenrush-react-project/static/css/main.07e1dfbf.css",
-    "main.js": "/advenrush-react-project/static/js/main.6910202d.js",
+    "main.js": "/advenrush-react-project/static/js/main.87b200f9.js",
     "static/media/norway2.jpg": "/advenrush-react-project/static/media/norway2.3a050cc3496cd47c26c3.jpg",
     "static/media/about.jpg": "/advenrush-react-project/static/media/about.83c421867f332511f471.jpg",
     "static/media/survival.jpg": "/advenrush-react-project/static/media/survival.f3d0762d8afe8c7b82a4.jpg",
@@ -15,10 +15,10 @@
     "static/media/switzerland.jpg": "/advenrush-react-project/static/media/switzerland.6a0ac2da7d7816e1bbd7.jpg",
     "index.html": "/advenrush-react-project/index.html",
     "main.07e1dfbf.css.map": "/advenrush-react-project/static/css/main.07e1dfbf.css.map",
-    "main.6910202d.js.map": "/advenrush-react-project/static/js/main.6910202d.js.map"
+    "main.87b200f9.js.map": "/advenrush-react-project/static/js/main.87b200f9.js.map"
   },
   "entrypoints": [
     "static/css/main.07e1dfbf.css",
-    "static/js/main.6910202d.js"
+    "static/js/main.87b200f9.js"
   ]
 }
