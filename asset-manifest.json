@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/advenrush-react-project/static/css/main.07e1dfbf.css",
+    "main.css": "/advenrush-react-project/static/css/main.36e31c15.css",
     "main.js": "/advenrush-react-project/static/js/main.87b200f9.js",
     "static/media/norway2.jpg": "/advenrush-react-project/static/media/norway2.3a050cc3496cd47c26c3.jpg",
     "static/media/about.jpg": "/advenrush-react-project/static/media/about.83c421867f332511f471.jpg",
@@ -14,11 +14,11 @@
     "static/media/norway.jpg": "/advenrush-react-project/static/media/norway.59f0c522888eb5410d4e.jpg",
     "static/media/switzerland.jpg": "/advenrush-react-project/static/media/switzerland.6a0ac2da7d7816e1bbd7.jpg",
     "index.html": "/advenrush-react-project/index.html",
-    "main.07e1dfbf.css.map": "/advenrush-react-project/static/css/main.07e1dfbf.css.map",
+    "main.36e31c15.css.map": "/advenrush-react-project/static/css/main.36e31c15.css.map",
     "main.87b200f9.js.map": "/advenrush-react-project/static/js/main.87b200f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.07e1dfbf.css",
+    "static/css/main.36e31c15.css",
     "static/js/main.87b200f9.js"
   ]
 }
